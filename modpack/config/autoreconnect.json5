@@ -1,0 +1,18 @@
+{
+	// Delays between attempts in seconds
+	"delays": [
+		3,
+		10,
+		30,
+		60
+	],
+	// Whether to repeat reconnecting with the last configured delay
+	"infinite": false,
+	// Messages to send after joining the world on a specific server
+	"messages": {
+		"serverAddress": "",
+		"messages": [],
+		// Delay between each message in milliseconds
+		"delay": 1000
+	}
+}

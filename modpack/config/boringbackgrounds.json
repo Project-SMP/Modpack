@@ -1,0 +1,18 @@
+{
+    "textures": {
+        "minecraft:textures/gui/options_background.png": 1,
+        "minecraft:textures/block/copper_block.png": 1,
+        "minecraft:textures/block/birch_planks.png": 1,
+        "minecraft:textures/block/acacia_planks.png": 1,
+        "minecraft:textures/block/dark_oak_planks.png": 1,
+        "minecraft:textures/block/spruce_planks.png": 1,
+        "minecraft:textures/block/jungle_planks.png": 1,
+        "minecraft:textures/block/cobblestone.png": 1,
+        "minecraft:textures/block/cobbled_deepslate.png": 1,
+        "minecraft:textures/block/snow_block.png": 1,
+        "minecraft:textures/block/packed_ice.png": 1,
+        "minecraft:textures/block/stone_bricks.png": 1,
+        "minecraft:textures/block/bricks.png": 1
+    },
+        "randomize_on_new_screen": false
+}
