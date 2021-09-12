@@ -1,3 +1,10 @@
+### Table of Contents
+- [Project SMP's Modpack](#project-smps-modpack)
+      - [Current features:](#current-features)
+  - [INSTALLATION GUIDE](#installation-guide)
+  - [Mod list](#mod-list)
+  - [Suggestions, support, bug reports, etc...](#suggestions-support-bug-reports-etc)
+
 # Project SMP's Modpack
 Client-sided modpack for Project: SMP server that focuses on expanding the game in ways that aren't possible through Spigot API.
 
@@ -46,9 +53,9 @@ Client-sided modpack for Project: SMP server that focuses on expanding the game 
 
 ## INSTALLATION GUIDE
 
-1. Click the `Download source code` button (the `zip` one)
+1. Head over to `Releases` tab and click the `Download source code` button (the `zip` one) on the latest one
 2. Extract the cotents anywhere
-3. Go to `Project-SMP-Modpack-main/installers` and install **Fabric Loader 1.17.1** (you can choose between `.exe` and `.jar` installed and both are the **latest versions**)
+3. Go to `Modpack-main/installers` and install **Fabric Loader 1.17.1** (you can choose between `.exe` and `.jar` installed and both are the **latest versions**)
 4. After you are done, extract the contents of the `Modpack-main/modpack` folder into your Minecraft root folder (`%appdata%/.minecraft`) and you are done!
     __**It also supports importing CurseForge profiles!**__
 
