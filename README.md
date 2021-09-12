@@ -2,39 +2,58 @@
 Client-sided modpack for Project: SMP server that focuses on expanding the game in ways that aren't possible through Spigot API.
 
 #### Current features:
-  ➕*Bedrock parity features, like bridging, GUI changes, etc.*
+  :heavy_plus_sign: *Bedrock parity features, GUI changes, loading screen, Sheep colors, etc.*
    
-  ➕ *Client performance improvements (built on top of Sodium and Iris)*
+  :heavy_plus_sign:  *Fixes several MC Issues, like ghost blocks (client and server desyncs, and in other words - block is there, but you can't see it `:/`)*
   
-  ➕ *World ambience, like sounds of wind blowing every now and then*
+  :heavy_plus_sign:  *Client performance improvements (built on top of OptiFine and other mods)*
   
-  ➕ *Ragdoll mobs, ragdoll block particles*
+  :heavy_plus_sign:  *World ambience, like sounds of wind blowing every now and then, water flowing, caves echoing...*
   
-  ➕ *Ambient lights, like actually bright stars, eyes in the dark (purely cosmetic!), fireflies...*
+  :heavy_plus_sign:  *Ambient lights, eyes in the dark (purely cosmetic!), fireflies...*
   
-  ➕ *Dynamic lights (you heard that right, with no OptiFine)*
+  :heavy_plus_sign:  *Dynamic lights (you heard that right, with no OptiFine)*
   
-  ➕ *Fishing improvements in form of automatic recasts (meaning that you can make an AFK farm anywhere)*
+  :heavy_plus_sign:  *Better main menu! Changing Panorama, Options screen, etc.*
+
+  :heavy_plus_sign:  *Fishing improvements in form of automatic recasts (meaning that you can make an AFK farm anywhere)*
   
-  ➕ ***CAPES!** Yes, actual capes visible to everyone who has the modpack!*
+  :heavy_plus_sign:  ***CAPES!** Yes, actual capes visible to everyone who has the modpack!*
+
+  :heavy_plus_sign:  ***Player model editing!** Yes, you have read that right, **Player model editing** that everyone with the modpack can see!*
   
-  ➕ *Drastic improvements to the Resource Pack loading (it took the time needed to load it from 30 seconds to 3 for me!)*
+  :heavy_plus_sign:  *Ability to take high resolution screenshots using F9*
   
-  ➕ *Ability to take high resolution screenshots using F9*
+  :heavy_plus_sign:  *Ability to sort inventories using MMB*
   
-  ➕ *Ability to sort inventories using MMB*
+  :heavy_plus_sign:  *Crash fixes! If a game crashes you are taken to the main menu instead!*
   
-  ➕ *Crash fixes! If a game crashes you are taken to the main menu instead!*
+  :heavy_plus_sign:  *You actually can be set on Soul Fire (small, but decent detail)*
   
-  ➕ *You actually can be set on Soul Fire (small, but decent detail)*
-  
-  ➕ *Sound physics, meaning reverb and echo effect in caves, etc.*
-  
-  ➕ *Minimap (do I need to explain this one?)*
-  
+  :heavy_plus_sign:  *Sound physics, meaning reverb and echo effect in caves, etc.*
+
+  :heavy_plus_sign:  *Search bar at the top of all containers*
+
+  :heavy_plus_sign:  ***Better crash handling!** If your game crashes, it will just put you back at the main menu!*
+
+  :heavy_plus_sign:  *Better Discord Rich Presence (MC's original one is pretty plain and doesn't support modded clients)*
+
+  :heavy_plus_sign:  *Many smaller or bigger tweaks that turn the game up to 11!*
+ 
+
+
+  :heavy_plus_sign:  *Comes with **Project: SMP** being already bundled in `Multiplayer` tab!* :heart:
+
+## INSTALLATION GUIDE
+
+1. Click the `Download source code` button (the `zip` one)
+2. Extract the cotents anywhere
+3. Go to `Project-SMP-Modpack-main/installers` and install **Fabric Loader 1.17.1** (you can choose between `.exe` and `.jar` installed and both are the **latest versions**)
+4. After you are done, extract the contents of the `Modpack-main/modpack` folder into your Minecraft root folder (`%appdata%/.minecraft`) and you are done!
+    __**It also supports importing CurseForge profiles!**__
+
 ## Mod list
-Full mod list with versions and download links are available [here](https://docs.google.com/spreadsheets/d/18iyS8uPJQOgokF0Tx0fJMRo9vXHEMRwmGLpjT7uWEOA/edit?usp=sharing).
-More will propably be added, tweaked or removed through the development of the server
+Full mod list is available in this repo, all rights go to the respective creators
  
 ## Suggestions, support, bug reports, etc...
 They are all handled on our Discord server which you can find [here](http://links.projectsmp.tk/6659201)
