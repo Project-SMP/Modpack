@@ -1,0 +1,25 @@
+{
+  "toasts": {
+    "show_system_toasts": true,
+    "show_recipe_toasts": true,
+    "show_advancement_toasts": true,
+    "show_tutorial_toasts": true,
+    "hide_all_toasts": false,
+    "activated": true
+  },
+  "bugfixes": {
+    "openfile_linux_bugfix": false
+  },
+  "inventory": {
+    "alert_on_low_durability": false,
+    "inverted_mouse_wheel": false,
+    "activated": true,
+    "activate_wheel_in_recipe_book": true,
+    "alert_on_full_inventory": false,
+    "low_durability_threshold": 5.0
+  },
+  "sound_output_device": {
+    "preferred_device": "",
+    "activated": true
+  }
+}
