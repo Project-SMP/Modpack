@@ -69,4 +69,5 @@ Full mod list is available in this repo, all rights go to the respective creator
  
 ## Suggestions, support, bug reports, etc...
 [![Discord](https://img.shields.io/discord/727033287343734885.svg?style=for-the-badge&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](http://links.projectsmp.tk/6659201)
+
 They are all handled on our Discord server which you can find [here](http://links.projectsmp.tk/6659201)
